@@ -1,0 +1,41 @@
+﻿  Practica3.cpp
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(26,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(26,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(27,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(27,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(28,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(28,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(29,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(29,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(30,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(30,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(31,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(31,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(32,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(32,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(33,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(33,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(36,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(36,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(37,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(37,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(38,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(38,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(39,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(39,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(40,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(40,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(41,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(41,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(42,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(42,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(43,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(43,17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(51,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(65,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.cpp(95,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica3.vcxproj -> C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica3\Practica3.exe

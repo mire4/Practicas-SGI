@@ -1,0 +1,13 @@
+﻿  Animacion.cpp
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(29,44): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(30,45): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(35,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(36,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(38,54): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(252,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  Generando código
+  3 of 127 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  S5_Animacion.vcxproj -> C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\S5_Animacion\S5_Animacion.exe
