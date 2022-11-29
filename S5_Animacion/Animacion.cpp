@@ -1,8 +1,8 @@
 /*!
-	Camara.cpp
-	Programa para dibujar dos teteras con visibilidad y
-	camaras diferentes
-	@author		Roberto Vivo' <rvivo@upv.es>
+	Animacion.cpp
+	Programa para manejar la variable temporal y
+	actualizar la escena en cada frame
+	@author		Mireia Pires State
 	@date		Oct,2022
  */
 

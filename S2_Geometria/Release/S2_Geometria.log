@@ -1,0 +1,14 @@
+﻿  Geometria.cpp
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(29,44): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(30,45): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(35,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(36,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(38,54): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(252,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\S2_Geometria\Geometria.cpp(27,57): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\S2_Geometria\Geometria.cpp(28,61): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  S2_Geometria.vcxproj -> C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\S2_Geometria\S2_Geometria.exe

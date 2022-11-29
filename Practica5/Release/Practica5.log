@@ -1,0 +1,65 @@
+﻿  Noria.cpp
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(29,44): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(30,45): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(35,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(36,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(38,54): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(252,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(44,82): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(44,70): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(44,39): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(51,70): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(51,39): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(58,123): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(58,111): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(58,56): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(59,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(66,111): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(66,56): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(75,111): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(75,56): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(85,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(86,32): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(89,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(94,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(95,32): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(98,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(103,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(104,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(107,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(112,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(113,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(116,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(122,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(123,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(126,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(131,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(132,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(135,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(140,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(141,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(144,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(149,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(150,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(153,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(194,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(198,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(211,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(226,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(242,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(264,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(269,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(298,21): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(310,33): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(320,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(321,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(338,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(359,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(394,45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Noria.cpp(413,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código
+  0 of 128 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Practica5.vcxproj -> C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica5\Practica5.exe
