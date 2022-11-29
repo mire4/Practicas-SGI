@@ -1,20 +1,16 @@
-# Seminarios_ISGI_2022
-## Código de los seminarios de OpenGL en ISGI/ETSINF/UPV
-### Objetivo
-Este repositorio sirve para:
+# Prácticas SGI
 
-:one: Mantener el código que el profesor desarrolla en los seminarios  
-:two: Como plantilla de *solución VSC++*
-### Instalación
-Para instalar, *clonar* el proyecto usando git en la consola (p.e. *bash*) sobre el directorio preferido:
-```
-$ cd $USER/source/repos   
-$ git clone -b main --recursive https://github.com/RobVivo/Seminarios_ISGI_2022
-```   
+<details>
+  <summary>Tabla de contenidos</summary>
+  <ol>
+    <li><a href="#sobre-el-repositorio">Sobre el repositorio</a></li>
+    <li><a href="#práctica-1">Práctica 1</a></li>
+  </ol>
+</details>
 
-### Actualización
-Para actualizar desde github:
-```
-$ cd $USER/source/repos/Seminarios_ISGI_2022    
-$ git pull origin main
-```
+## Sobre el repositorio
+Desarrollo de las prácticas de sistemas gráficos interactivos del curso 2022. 
+Voy a subir tanto los seminarios como las prácticas relacionadas con estos. Las prácticas importantes son la 5 y la 9.
+
+## Práctica 1
+Esta práctica consiste en hacer una noria que gire y además que la cámara se mueva alrededor de la noria.
