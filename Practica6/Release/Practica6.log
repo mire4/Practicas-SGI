@@ -1,0 +1,66 @@
+﻿  Simulador.cpp
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(29,44): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(30,45): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(35,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(36,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(38,54): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\codebase\Utilidades.h(252,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(21,35): warning C4305: 'inicializando': truncamiento de 'int' a 'float'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(22,36): warning C4305: 'inicializando': truncamiento de 'int' a 'float'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(25,22): warning C4244: 'inicializando': conversión de 'time_t' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(25,16): warning C4244: 'inicializando': conversión de 'time_t' a 'const int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(37,33): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(63,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(63,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(63,82): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(63,72): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(64,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(64,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(64,67): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(64,57): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(65,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(65,62): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(66,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(66,53): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(125,33): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(125,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(126,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(126,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(127,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(127,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(128,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(128,30): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(156,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(163,57): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(164,43): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(164,43): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(165,36): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(165,36): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(166,48): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(172,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(173,44): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(173,44): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(174,37): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(174,37): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(175,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(183,63): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(184,49): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(184,49): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(185,42): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(185,42): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(186,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(191,64): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(192,50): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(192,50): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(193,43): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(193,43): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(194,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(233,53): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(235,45): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Simulador.cpp(235,50): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  Generando código
+  2 of 33 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Practica6.vcxproj -> C:\Users\usuarioprincipal\Desktop\Informàtica\4º\SGI\misRepositorios\Seminarios_ISGI_2022\Practica6\Practica6.exe
