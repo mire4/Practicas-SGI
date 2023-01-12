@@ -1,7 +1,8 @@
 /*!
 	Geometria.cpp
-
+	
 	Programa para dibujar un pentagono con listas
+
 	@author		Roberto Vivo' <rvivo@upv.es>
 	@date		Oct,2022
  */
@@ -29,14 +30,14 @@ void init()
 	}
 
 	// Lista de dibujo
-	pentagono = glGenLists(1);
+	pentagono = glGenLists(1);			
 
 	glNewList(pentagono, GL_COMPILE);
-	glBegin(GL_POLYGON);
-	for (int i = 0; i < 10; i += 2) {
-		glVertex3f(coordenadas[i], coordenadas[i + 1], 0);
-	}
-	glEnd();
+		glBegin(GL_POLYGON);
+		for (int i = 0; i < 10; i+=2) {
+			glVertex3f(coordenadas[i], coordenadas[i+1], 0);
+		}
+		glEnd();
 	glEndList();
 
 	// Inicializaciones 
@@ -54,8 +55,8 @@ void display()
 	glPolygonMode(GL_FRONT, GL_FILL);
 	glColor3f(1, 0, 0);
 	glCallList(pentagono);
-
-	glPushAttrib(GL_CURRENT_BIT | GL_LINE_BIT);
+		
+	glPushAttrib(GL_CURRENT_BIT|GL_LINE_BIT);
 	glLineWidth(4);
 	glPolygonMode(GL_FRONT, GL_LINE);
 	glColor3f(1, 1, 1);

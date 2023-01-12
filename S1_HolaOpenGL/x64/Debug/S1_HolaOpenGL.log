@@ -1,0 +1,2 @@
+﻿  HolaOpenGL.cpp
+C:\Users\rvivo\source\repos\Seminarios_ISGI_2022\S1_HolaOpenGL\HolaOpenGL.cpp(13,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/freeglut.h': No such file or directory

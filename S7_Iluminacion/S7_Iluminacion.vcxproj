@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a43807f9-3abb-4909-9cdc-9e23ece80060}</ProjectGuid>
+    <ProjectGuid>{49079810-dff9-4c46-bdff-bb7eb6f7c94a}</ProjectGuid>
     <RootNamespace>S7Iluminacion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

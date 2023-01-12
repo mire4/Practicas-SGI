@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{89208f08-4f99-4487-af2a-6f300d9e5e4e}</ProjectGuid>
-    <RootNamespace>S6interaccion</RootNamespace>
+    <ProjectGuid>{6cb6c03b-5890-4152-9b62-4fa5e5de81f2}</ProjectGuid>
+    <RootNamespace>S6Interaccion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

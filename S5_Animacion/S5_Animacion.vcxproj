@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1eb91b32-c22e-4949-bbfc-f94b5d75e82f}</ProjectGuid>
+    <ProjectGuid>{52d58199-11f3-4c68-a377-af3568bb1cab}</ProjectGuid>
     <RootNamespace>S5Animacion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

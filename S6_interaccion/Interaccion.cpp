@@ -1,7 +1,9 @@
 /*!
 	Interaccion.cpp
+
 	Programa capturar eventos de usuario y modificar el
 	grafico en consecuencia
+
 	@author		Roberto Vivo' <rvivo@upv.es>
 	@date		Nov,2022
  */
@@ -14,7 +16,7 @@
 using namespace std;
 
 // Globales
-static enum { ALAMBRICO, SOLIDO, DOBLE } modo;
+static enum {ALAMBRICO,SOLIDO,DOBLE} modo;
 static float giroxTR = 0, giroyTR = 0, giroxTA = 0, giroyTA = 0;
 int xanterior, yanterior;
 GLubyte objeto[1];
@@ -34,7 +36,7 @@ void init()
 	cout << "GL version " << glGetString(GL_VERSION) << endl;
 
 	// Menu de popup
-
+	
 	glutCreateMenu(onMenu);
 	glutAddMenuEntry("ALAMBRICO", 0);
 	glutAddMenuEntry("SOLIDO", 1);

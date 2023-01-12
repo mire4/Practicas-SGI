@@ -1,7 +1,8 @@
 /*!
-	Interaccion.cpp
-	Programa capturar eventos de usuario y modificar el
-	grafico en consecuencia
+	Iluminacion.cpp
+
+	Programa para manejar luces y materiales en OpenGL
+
 	@author		Roberto Vivo' <rvivo@upv.es>
 	@date		Nov,2022
  */
@@ -16,29 +17,37 @@ using namespace std;
 // Globales
 static float girox = 0, giroy = 0;
 int xanterior, yanterior;
+bool L1on = true, L0on = true;
+
+
 
 void init()
 // Inicializaciones
 {
 	cout << "Iniciando " << PROYECTO << endl;
-	cout << "GL version " << glGetString(GL_VERSION) << endl;
+	cout << "GL version " << glGetString(GL_VERSION) <<
+		endl;
 
-	// Luces
-	const GLfloat A[] = { 0.2, 0.2, 0.2, 1 };
+	// Luces --------------------------------
+	const GLfloat A[] = { 0.2,0.2,0.2,1 };
 	glLightModelfv(GL_LIGHT_MODEL_AMBIENT, A);
 
-	// Para hacer que laqs luces sean difusas
-	const GLfloat L0D[]{ 0.5, 0.5, 0.5, 1 };
+	const GLfloat L0D[]{ 0.2,0.2,0.2,1 };
 	glLightfv(GL_LIGHT0, GL_DIFFUSE, L0D);
+	
+	glLightfv(GL_LIGHT1, GL_DIFFUSE, GRISCLARO);
+	glLightfv(GL_LIGHT1, GL_SPECULAR, GRISCLARO);
 
-	glLightfv(GL_LIGHT1, GL_DIFFUSE, BRONCE);
-	glLightfv(GL_LIGHT1, GL_);
+	// Material -----------------------------
+	glMaterialfv(GL_FRONT, GL_DIFFUSE, BRONCE);
+	glMaterialfv(GL_FRONT, GL_SPECULAR, ORO);
+	glMaterialf(GL_FRONT, GL_SHININESS, 40);
 
-
-	// Configurar motor de render
-	glClearColor(0.0f, 0.0f, 0.3f, 1.0f);
+	// Configurar el motor de render 
+	glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
 	glEnable(GL_DEPTH_TEST);
 	glEnable(GL_LIGHTING);
+	glEnable(GL_NORMALIZE);
 	glEnable(GL_LIGHT0);
 	glEnable(GL_LIGHT1);
 }
@@ -52,26 +61,32 @@ void display()
 	glMatrixMode(GL_MODELVIEW);
 	glLoadIdentity();
 
+	// Luces solidarias a la cámara
+	GLfloat L0P[]{ 0,0,1,0 };
+	glLightfv(GL_LIGHT0, GL_POSITION, L0P);
+
+
 	// Situar y orientar la camara
 	gluLookAt(2, 1, 2, 0, 0, 0, 0, 1, 0);
 
 	ejes();
 
-	/*// Luz fija en la escena para que alumbre desde arriba
-	GLfloat L0P[]{0, 1, 0, 1};
-	glLightfv(GL_LIGHT0, GL_POSITION, L0P);*/
+	// Luz fija en la escena
+	GLfloat L1P[]{ -20,20,20,1 };
+	glLightfv(GL_LIGHT1, GL_POSITION, L1P);
 
-	// Luz que ilumina siempre desde arriba de la tetera aunque la muevas
-	GLfloat L0P[]{ 0, 1, 0, 1 };
-	glLightfv(GL_LIGHT0, GL_POSI);
+	// Geometria
 
-	// Geometria: Tetera roja
+	// Tetera roja
 	glPushMatrix();
 
 	glRotatef(girox, 1, 0, 0);
 	glRotatef(giroy, 0, 1, 0);
 
-	glColor3fv(ROJO);
+	// Luz solidaria al objeto
+	//--GLfloat L0P[]{ 0,1,0,0 };
+	//--glLightfv(GL_LIGHT0, GL_POSITION, L0P);
+
 	glutSolidTeapot(0.5);
 
 	glPopMatrix();
@@ -103,6 +118,16 @@ void onKey(unsigned char tecla, int x, int y)
 {
 	// Callback de atencion a los eventos de teclas alfanumericas
 	switch (tecla) {
+	case '0':
+		if (L0on)glDisable(GL_LIGHT0);
+		else glEnable(GL_LIGHT0);
+		L0on = !L0on;
+		break;
+	case '1':
+		if (L1on)glDisable(GL_LIGHT1);
+		else glEnable(GL_LIGHT1);
+		L1on = !L1on;
+		break;
 	case 27:
 		exit(0);
 	}
@@ -119,17 +144,14 @@ void onClick(int boton, int estado, int x, int y)
 		xanterior = x;
 		yanterior = y;
 	}
+
 }
 
 void onDrag(int x, int y)
 {
 	static const float pixel2grados = 1;
 
-	// Al mover el raton hacia la derecha, la x aumenta y el giro es 
-	// alrededor del eje y positivo
 	giroy += (x - xanterior) * pixel2grados;
-	// AL mover el raton hacia abajo, la y aumenta y el giro es 
-	// alrededor del eje x positivo
 	girox += (y - yanterior) * pixel2grados;
 
 	xanterior = x;
